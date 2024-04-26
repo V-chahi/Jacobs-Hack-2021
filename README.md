@@ -1,5 +1,5 @@
 # Presentation
-We built a communication web application only accessible for Jacobs university students.<br/>
+JUBConnect is communication web-based application only accessible for Jacobs university students, where they can interact and browse based on Major, Graduation Year, etc...<br/>
 Link:https://jacobs-connect.herokuapp.com/ <br/>
 ## Deploy the application locally 
 ### Git
